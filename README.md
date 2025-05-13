@@ -85,8 +85,8 @@ FASTAPI_PORT=8000
 
 
 # 📅 Cronograma | Timeline
-Confira o cronograma do projeto em docs/cronograma.md.
-See project timeline in docs/cronograma.md.
+Confira o cronograma do projeto em main/cronograma.md.
+See project timeline in main/cronograma.md.
 
 # 👥 Equipe | Team
 - Igor Galdino
